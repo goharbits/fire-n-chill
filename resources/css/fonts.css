@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Altivo';
+    src: url('../fonts/Altivo-Black.woff2') format('woff2'),
+        url('../fonts/Altivo-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Altivo';
+    src: url('../fonts/Altivo-Bold.woff2') format('woff2'),
+        url('../fonts/Altivo-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Altivo';
+    src: url('../fonts/Altivo-Light.woff2') format('woff2'),
+        url('../fonts/Altivo-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Altivo Ultra';
+    src: url('../fonts/Altivo-Ultra.woff2') format('woff2'),
+        url('../fonts/Altivo-Ultra.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Altivo';
+    src: url('../fonts/Altivo-Regular.woff2') format('woff2'),
+        url('../fonts/Altivo-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Altivo';
+    src: url('../fonts/Altivo-Medium.woff2') format('woff2'),
+        url('../fonts/Altivo-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HORNSEA FC';
+    src: url('../fonts/HORNSEAFC-LIGHT.woff2') format('woff2'),
+        url('../fonts/HORNSEAFC-LIGHT.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'HORNSEA FC';
+    src: url('../fonts/HORNSEAFC-MEDIUM.woff2') format('woff2'),
+        url('../fonts/HORNSEAFC-MEDIUM.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'HORNSEA FC';
+    src: url('../fonts/HORNSEAFC-REGULAR.woff2') format('woff2'),
+        url('../fonts/HORNSEAFC-REGULAR.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'HORNSEA FC';
+    src: url('../fonts/HORNSEAFC-BOLD.woff2') format('woff2'),
+        url('../fonts/HORNSEAFC-BOLD.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'HORNSEA FC';
+    src: url('../fonts/HORNSEAFC-THIN.woff2') format('woff2'),
+        url('../fonts/HORNSEAFC-THIN.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'HORNSEA FC';
+    src: url('../fonts/HORNSEAFC-BLACK.woff2') format('woff2'),
+        url('../fonts/HORNSEAFC-BLACK.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
